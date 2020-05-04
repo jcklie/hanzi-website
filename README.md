@@ -6,7 +6,7 @@ Simple website to display Heisig information, especially the decomposition for C
 
 This website is generated from a JSON file via [Gatsby](https://www.gatsbyjs.org/). To run the development server, install the [Gatsby CLI](https://www.gatsbyjs.org/docs/gatsby-cli/) and execute
 
-  gatsby develop
+    gatsby develop
 
 ## Acknowledgements
 
